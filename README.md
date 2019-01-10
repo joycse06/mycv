@@ -1,5 +1,7 @@
 ## Resume of Prasenjit Kumar Nag (Joy)
 
+[**Download the PDF version**](https://github.com/joycse06/resume/blob/master/resume.pdf)
+
 ## How to generate PDF?
 
 ```bash
